@@ -1,0 +1,4 @@
+Clean House,low
+Pay Bills,high
+read,medium
+sleep,high
